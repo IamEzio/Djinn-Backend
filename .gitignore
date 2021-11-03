@@ -151,5 +151,5 @@ dmypy.json
 cython_debug/
 
 /emart_vue
-
+secrets.py
 # End of https://www.toptal.com/developers/gitignore/api/django
